@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **securing CI/CD pipelines**
 
-- 🌱 I’m currently learning **mostly Python and all DevOps technologies (my aim now is Kubertnets)**
+- 🌱 I’m currently learning **mostly Python and all DevOps technologies (my aim now is Kubernetes)**
 
 - 📫 How to reach me **https://www.linkedin.com/in/simoadam/**
 
