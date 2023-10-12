@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adam</h1>
 <h3 align="center">A technology consultant who discovered passion for software development and DevOps</h3>
 
-At the statr of the 2023, I knew I wanted to pursuit my carrer somewhere in the direction cloud administration/engineering. In my job, I started doing Business and IT analysis, taking inputs from business and translating it into meta code (as good as my skills would allowed me) for AWS hosted lambda serverless mobile application (java & react native, REST APIs, dynamoDB noSQL). I also got included into a containerization projects through the whole tech stack in our comapany (java, nodejs, react, .net, react and python), where my duty was to create the Security part of the DevSecOps, as I have little background in IT security, through working as IT auditor for two year. Since May or June 2023 I knew I wanted to pursuit SWE/DevOps carrer path, so wish me luck on my way.
+At the start of the 2023, I knew I wanted to pursuit my carrer somewhere in the direction of cloud administration/engineering. In my job, I started doing Business and IT analysis, taking inputs from business and translating it into meta code (as good as my skills would allowed me) for AWS hosted lambda serverless mobile application (java & react native, REST APIs, dynamoDB noSQL). I also got included into a containerization projects through the whole tech stack in our comapany (java, nodejs, react, .net, react and python), where my duty was to create the Security part of the DevSecOps, as I have little background in IT security, through working as IT auditor for two years. Since May/June 2023 I knew I wanted to pursuit SWE/DevOps carrer path, so wish me luck on my way.
 
 - 🔭 I’m currently working on **securing CI/CD pipelines**
 
