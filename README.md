@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Adam</h1>
 <h3 align="center">A technology consultant who discovered passion for software development and DevOps</h3>
 
-At the start of the 2023, I knew I wanted to pursuit my carrer somewhere in the direction of cloud administration/engineering. In my job, I started doing Business and IT analysis, taking inputs from business and translating it into meta code (as good as my skills would allowed me) for AWS hosted lambda serverless mobile application (java & react native, REST APIs, dynamoDB noSQL). I also got included into a containerization projects through the whole tech stack in our comapany (java, nodejs, react, .net, react and python), where my duty was to create the Security part of the DevSecOps, as I have little background in IT security, through working as IT auditor for two years. Since May/June 2023 I knew I wanted to pursuit SWE/DevOps carrer path, so wish me luck on my way.
+At the start of the 2023, I knew I wanted to pursuit my carrer somewhere in the direction of cloud administration/engineering. At my job, I started doing Business and IT analysis, taking inputs from business and translating it into "meta code" (as good as my skills would allowed me) for AWS hosted lambda serverless mobile application (java & react native, working with REST API specifications and dynamoDB noSQL). I also got included into a containerization projects through the whole tech stack in our comapany (java, nodejs, react, .net, react and python), where my duty was to create the Security part of the DevSecOps, as I have little background in IT security, through working as IT auditor for two years. Since May/June 2023 I knew I wanted to pursuit SWE/DevOps carrer path, so wish me luck on my way.
 
-- 🔭 I’m currently working on **Cups to grams converter**
+- 🔭 I’m currently working on **Cups to grams converter and my training devops pipeline**
 
 - 🌱 I’m currently learning **Learning programming again but with actual understanding of the code I'm writing (Python) and DevOps technologies**
 
