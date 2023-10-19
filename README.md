@@ -5,7 +5,7 @@ At the start of the 2023, I knew I wanted to pursuit my carrer somewhere in the 
 
 - 🔭 I’m currently working on **Cups to grams converter and my training devops pipeline**
 
-- 🌱 I’m currently learning **Learning programming again but with actual understanding of the code I'm writing (Python) and DevOps technologies**
+- 🌱 I’m currently learning **(planning) to try out Kubernetes**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
