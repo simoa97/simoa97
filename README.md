@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adam</h1>
-<h3 align="center">A technology consultant who discovered passion for software development and DevOps</h3>
+<h3 align="center">Aspiring Sys admin/DevOps engineer</h3>
 
-Over the year 2023, I got to know more about development and operation practices. At my job, I have done IT analysis, (java & react native, working with REST API specifications and dynamoDB noSQL) and little bit of DevOps processes where where I got to study various security concepts in the DevOps pipeline and Implement some tools. 
+Over the year 2023, I got to know more about development and operation practices. At my job, I have done IT analysis, (java & react native, working with REST API specifications and dynamoDB noSQL) and little bit of DevOps processes where where I got to study various security concepts in the DevOps pipeline and implement some tools security relates tools into the CI/CD. 
 
 - 🔭 I’m currently working on **Script to automatize transfer of vulnerabilities from security tools such as  OWASP ZAP, grype and Trivy to JIRA (or any other ticketing software) as issues)**
 
