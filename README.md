@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adam</h1>
-<h3 align="center">Aspiring DevOps engineer</h3>
+<h3 align="center">SysOps/DevOps engineer</h3>
 
 - 🔭 I’m currently mostly working with **IaC, K8s, AWS**
 
