@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Adam</h1>
 <h3 align="center">Aspiring DevOps engineer</h3>
 
-- 🔭 I’m currently working on **Script to automatize transfer of vulnerabilities from security tools such as  OWASP ZAP, grype and Trivy to JIRA (or any other ticketing software) as issues**
+- 🔭 I’m currently mostly working with **IaC, K8s, AWS**
 
-- 🌱 I’m currently learning **Linux, AWS and Ansible**
+- 🌱 I’m currently learning **K8s for CKA**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
